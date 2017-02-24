@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.mozium</groupId>
+	<artifactId>mozium-remoteGridConfig</artifactId>
+	<version>1.0.1</version>
+
+	<name>Mozium-remoteGridConfig</name>
+	<url>https://github.com/Ben-MBA/mozium-remoteGridConfig/tree/master</url>
+	<scm>
+		<connection>scm:git:https://github.com/mozium/tree/master/mozium-remoteGridConfig.git</connection>
+		<developerConnection>scm:git:https://github.com/Ben-MBA/mozium-remoteGridConfig.git</developerConnection>
+		<url>https://github.com/Ben-MBA/mozium-remoteGridConfign/tree/master</url>
+	</scm>
+</project>

@@ -1,0 +1,2 @@
+cd C:\"Program Files (x86)"\Appium
+node node_modules\appium\lib\server\main.js --address w-mbenaissa --port 4723 --nodeconfig C:\accor_projects\mozium-remoteGridConfig\src\main\resources\AndroidNodeConfig.json --platform-name Android --platform-version 23 --automation-name Appium --log-no-color --session-override
